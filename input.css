@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'thin';
+        src: url('./fonts/Sora-Thin.ttf');
+    }
+
+    @font-face {
+        font-family: 'regular';
+        src: url('./fonts/Sora-Regular.ttf');
+    }
+
+    @font-face {
+        font-family: 'medium';
+        src: url('./fonts/Sora-Medium.ttf');
+    }
+
+    @font-face {
+        font-family: 'semibold';
+        src: url('./fonts/Sora-SemiBold.ttf');
+    }
+
+    @font-face {
+        font-family: 'bold';
+        src: url('./fonts/Sora-Bold.ttf');
+    }
+}
