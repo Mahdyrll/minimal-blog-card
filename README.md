@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://mahdyrll.github.io/minimal-blog-card/}">
+    <a href="https://mahdyrll.github.io/minimal-blog-card/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://devchallenges.io/solution/9229}">
+    <a href="https://devchallenges.io/solution/9229">
       Solution
     </a>
     <span> | </span>
