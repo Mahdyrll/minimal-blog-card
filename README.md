@@ -24,7 +24,7 @@
 
 - [Overview](#overview)
 - [Built with](#built-with)
-- [Contact](#contact)
+- [Author](#author)
 
 ## Overview
 
